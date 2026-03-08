@@ -236,10 +236,10 @@ defaultContentLanguage = "en"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/303cdff0-6221-4da6-9bf5-481a947b6871"
-      alt = "Pyogenic granuloma excision"
-      description = "Pyogenic granuloma excision"
-      alt_ar = "استئصال"
-      description_ar = "استئصال"
+      alt = "Bridge 4 units , endocrown and crown"
+      description = "Bridge 4 units , endocrown and crown"
+      alt_ar = "طربوش وكوبري"
+      description_ar = "طربوش وكوبري"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/59ef1bf0-aa7f-4688-8f0f-6eb41b14a9c4"
