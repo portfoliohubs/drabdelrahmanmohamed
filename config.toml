@@ -177,20 +177,20 @@ defaultContentLanguage = "en"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/429074b3-40a8-42f1-beda-d2d59be4fe2c"
-      alt = "RCT lower 6, 7"
-      description = "RCT lower 6, 7"
-      alt_ar = "علاج عصب Lower 6,7"
-      description_ar = "علاج عصب Lower 6,7"
+      alt = "RCT UPPER 6"
+      description = "RCT UPPER 6"
+      alt_ar = "حشو عصب"
+      description_ar = "حشو عصب"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
+      photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
       alt = "RCT lower 6, 7"
       description = "RCT lower 6, 7"
       alt_ar = "حشو عصب"
       description_ar = "حشو عصب"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
+      photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
       alt = "RCT UPPER 6"
       description = "RCT UPPER 6"
       alt_ar = "حشو عصب"
@@ -202,23 +202,16 @@ defaultContentLanguage = "en"
     category_ar = "اوبريتيف"
     
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/ff77008d-cd3c-4612-867c-ba8396e44857"
-      alt = "Composite restoration "
-      description = "Composite restoration "
+      photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
+      alt = "Composite restoration Lower 6,7,8"
+      description = "Composite restoration Lower 6,7,8"
       alt_ar = "حشو عادي"
       description_ar = "حشو عادي"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/9f78e911-a2a8-4905-aeac-aa6376d4e5b5"
-      alt = "Pyogenic granuloma excision"
-      description = "Pyogenic granuloma excision"
-      alt_ar = "استئصال"
-      description_ar = "استئصال"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
-      alt = "Composite restoration Lower 6,7,8"
-      description = "Composite restoration Lower 6,7,8"
+      photo = "https://github.com/user-attachments/assets/ff77008d-cd3c-4612-867c-ba8396e44857"
+      alt = "Composite restoration"
+      description = "Composite restoration"
       alt_ar = "حشو عادي"
       description_ar = "حشو عادي"
 
@@ -228,25 +221,18 @@ defaultContentLanguage = "en"
     category_ar = "بريو"
     
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/86dc6818-47ca-4504-9b5b-e0f05c449c63"
-      alt = "L6 & L7 Class 1 composite restoration (single visit)"
-      description = "L6 & L7 Class 1 composite restoration (single visit)"
-      alt_ar = "ترميم المركب للسن السادس والسابع  سفلي من الفئة الاولى في زيارة واحدة"
-      description_ar = "ترميم المركب للسن السادس والسابع  سفلي من الفئة الاولى في زيارة واحدة"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/303cdff0-6221-4da6-9bf5-481a947b6871"
-      alt = "Bridge 4 units , endocrown and crown"
-      description = "Bridge 4 units , endocrown and crown"
-      alt_ar = "طربوش وكوبري"
-      description_ar = "طربوش وكوبري"
-
-    [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/59ef1bf0-aa7f-4688-8f0f-6eb41b14a9c4"
       alt = "Scaling and polishing"
       description = "Scaling and polishing"
       alt_ar = "تنظيف وتلميع"
       description_ar = "تنظيف وتلميع"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/9f78e911-a2a8-4905-aeac-aa6376d4e5b5"
+      alt = "Pyogenic granuloma excision"
+      description = "Pyogenic granuloma excision"
+      alt_ar = "استئصال"
+      description_ar = "استئصال"
 
   [[params.clinical_cases]]
     enabled = true
@@ -254,14 +240,14 @@ defaultContentLanguage = "en"
     category_ar = "كراون"
     
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
+      photo = "https://github.com/user-attachments/assets/86dc6818-47ca-4504-9b5b-e0f05c449c63"
       alt = "Upper bridge and crown"
       description = "Upper bridge and crown"
       alt_ar = "كوبري وطربوش"
       description_ar = "كوبري وطربوش"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
+      photo = "https://github.com/user-attachments/assets/303cdff0-6221-4da6-9bf5-481a947b6871"
       alt = "Bridge 4 units , endocrown and crown"
       description = "Bridge 4 units , endocrown and crown"
       alt_ar = "طربوش وكوبري"
