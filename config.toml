@@ -1,16 +1,16 @@
 baseURL = "https://portfoliohubs.github.io/drabdelrahmanmohamed/"
 languageCode = "en-us"
-title = "Dr. Abdelrahman Mohamed"
+title = "Dr. Abdelrahman Yossri"
 defaultContentLanguage = "en"
 
 [params]
   # Hero Section
   [params.hero]
-    name = "Dr. Abdelrahman Mohamed"
+    name = "Dr. Abdelrahman Yossri"
     tagline = "Dental Intern"
     graduation = "Graduated 2025 - Faculty of Dentistry"
     profile_image = "https://github.com/user-attachments/assets/14b56acf-397c-4242-b476-ee285c6d7494"
-    profile_image_alt = "Profile photo of Dr. Abdelrahman Mohamed"
+    profile_image_alt = "Profile photo of Dr. Abdelrahman Yossri"
     
     [params.hero.current_position]
       role = "Dental Intern"
@@ -18,9 +18,9 @@ defaultContentLanguage = "en"
 
   [params.seo]
     description = "Professional dental portfolio"
-    doctor_name_en = "Dr. Abdelrahman Mohamed"
+    doctor_name_en = "Dr. Abdelrahman Yossri"
     doctor_name_ar = "دكتور عبدالرحمن محمد"
-    site_name = "Dr. Abdelrahman Mohamed"
+    site_name = "Dr. Abdelrahman Yossri"
     og_image = "https://github.com/user-attachments/assets/a35ea443-0f5d-4b87-9d8e-44c1dba73be0"
     favicon_image = "https://github.com/user-attachments/assets/a35ea443-0f5d-4b87-9d8e-44c1dba73be0"
     twitter_handle = ""
