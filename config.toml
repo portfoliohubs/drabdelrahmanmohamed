@@ -1,0 +1,398 @@
+baseURL = "https://portfoliohubs.github.io/drabdelrahmanmohamed/"
+languageCode = "en-us"
+title = "Dr. Abdelrahman Mohamed"
+defaultContentLanguage = "en"
+
+[params]
+  # Hero Section
+  [params.hero]
+    name = "Dr. Abdelrahman Mohamed"
+    tagline = "Dental Intern"
+    graduation = "Graduated 2025 - Faculty of Dentistry"
+    profile_image = "https://github.com/user-attachments/assets/14b56acf-397c-4242-b476-ee285c6d7494"
+    profile_image_alt = "Profile photo of Dr. Abdelrahman Mohamed"
+    
+    [params.hero.current_position]
+      role = "Dental Intern"
+      clinic = "Deraya university hospital and private clinic"
+
+  [params.seo]
+    description = "Professional dental portfolio"
+    doctor_name_en = "Dr. Abdelrahman Mohamed"
+    doctor_name_ar = "دكتور عبدالرحمن محمد"
+    site_name = "Dr. Abdelrahman Mohamed"
+    og_image = "https://github.com/user-attachments/assets/a35ea443-0f5d-4b87-9d8e-44c1dba73be0"
+    favicon_image = "https://github.com/user-attachments/assets/a35ea443-0f5d-4b87-9d8e-44c1dba73be0"
+    twitter_handle = ""
+    keywords = [
+      "دكتور عبدالرحمن يسري",
+      "دكتور عبدالرحمن يسري أسنان",
+      "دكتور عبدالرحمن يسري طبيب أسنان",
+      "دكتور عبدالرحمن يسري دكتور أسنان",
+      "طبيب أسنان عبدالرحمن يسري",
+      "دكتور أسنان عبدالرحمن يسري",
+      "دكتور أسنان شاطر",
+      "طبيب أسنان لعلاج العصب",
+      "دكتور أسنان حشو تجميلي",
+      "دكتور أسنان للأطفال",
+      "طبيب أسنان جراحة الفم",
+      "دكتور أسنان علاج اللثة"
+    ]
+    keywords_ar = [
+      "دكتور عبدالرحمن يسري",
+      "دكتور عبدالرحمن يسري أسنان",
+      "دكتور عبدالرحمن يسري طبيب أسنان",
+      "دكتور عبدالرحمن يسري دكتور أسنان",
+      "طبيب أسنان عبدالرحمن يسري",
+      "دكتور أسنان عبدالرحمن يسري",
+      "دكتور أسنان شاطر",
+      "طبيب أسنان لعلاج العصب",
+      "دكتور أسنان حشو تجميلي",
+      "دكتور أسنان للأطفال",
+      "طبيب أسنان جراحة الفم",
+      "دكتور أسنان علاج اللثة"
+    ]
+
+  [params.integrations]
+    google_search_console_verification = "6VtKNI5qnSYsfjCTBMfnm9PuZjjR7aYh6crmofpS8yw"
+    google_analytics_measurement_id = ""
+
+  [params.ui]
+    [params.ui.nav]
+      profile = "Profile"
+      skills = "Skills"
+      education = "Education"
+      clinical_cases = "Clinical Cases"
+      cases_short = "Cases"
+      blog = "Blog"
+      contact = "Contact"
+
+    [params.ui.skills]
+      title = "Professional Skills"
+      clinical_title = "Clinical Skills"
+      digital_title = "Digital Skills"
+      soft_title = "Soft Skills"
+
+    [params.ui.education]
+      title = "Education & Timeline"
+      graduated_label = "Graduated"
+      career_timeline_title = "Career Timeline"
+      courses_title = "Courses & Certifications"
+
+    [params.ui.cases]
+      title = "Clinical Cases"
+      subtitle = "Clinical Cases Gallery"
+
+    [params.ui.blog]
+      title = "Latest Articles"
+      subtitle = "Insights and Knowledge"
+      empty_text = "No blog posts yet"
+
+    [params.ui.contact]
+      title = "Get In Touch"
+      subtitle = "Let's connect and collaborate"
+      follow_me_title = "Follow Me"
+
+    [params.ui.labels]
+      now_working_as = "Now working as"
+      at = "at"
+      phone = "Phone"
+      whatsapp = "WhatsApp"
+      email = "Email"
+      location = "Location"
+      get_directions = "Get Directions"
+      masters_degree = "Master's Degree"
+      phd_degree = "PhD Degree"
+      rights_reserved = "All rights reserved"
+
+  # Skills Section
+  [params.skills]
+    clinical = [
+      "General Dentistry (GP Skills)",
+      "Endodontic Treatment (Root Canal Therapy)",
+      "Restorative Dentistry (Direct and indirect Fillings)",
+      "Fixed Prosthodontics",
+      "Basic Oral Surgery",
+      "Pediatric Dentistry",
+      "Basic Cosmetic Dentistry",
+      "Basic Periodontal Treatment (Scaling & Polishing)"
+    ]
+    
+    digital = [
+      "CAD/CAM Basic Knowledge",
+      "Microsoft PowerPoint",
+      "Dental Photography and Case Documentation"
+    ]
+    
+    soft = [
+      "Effective Communication with Patients",
+      "Pediatric Patient Management",
+      "Time Management and Work Organization",
+      "Teamwork in Clinical Environment"
+    ]
+
+  # Education Section
+  [params.education]
+    university = "DERAYA UNIVERSITY"
+    graduation_year = "2025"
+    
+    [params.education.master]
+      obtained = false
+      title = ""
+      year = ""
+    
+    [params.education.phd]
+      obtained = false
+      title = ""
+      year = ""
+    
+    [[params.education.timeline]]
+      year = "2020"
+      event = "Started Faculty of Dentistry"
+    
+    [[params.education.timeline]]
+      year = "2025"
+      event = "Graduated from Faculty of Dentistry"
+    
+    [[params.education.timeline]]
+      year = "2026 – Present"
+      event = "Dental Intern (Internship Year)"
+    
+    # Certificates (images will be uploaded via GitHub issues)
+    # [[params.education.certificates]]
+    #   title = "Advanced Endodontics Course"
+    #   image = "cert1.jpg"
+  # Clinical Cases Section
+  [[params.clinical_cases]]
+    enabled = true
+    category = "اندو"
+    category_ar = "اندو"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/590ae84c-cc98-45bc-9f10-3fa8cbd021e8"
+      alt = "RCT L6"
+      description = "RCT L6"
+      alt_ar = "علاج عصب L6"
+      description_ar = "علاج عصب L6"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
+      alt = "RCT UPPER 6"
+      description = "RCT UPPER 6"
+      alt_ar = "حشو عصب"
+      description_ar = "حشو عصب"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/429074b3-40a8-42f1-beda-d2d59be4fe2c"
+      alt = "RCT lower 6, 7"
+      description = "RCT lower 6, 7"
+      alt_ar = "حشو عصب"
+      description_ar = "حشو عصب"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/59ef1bf0-aa7f-4688-8f0f-6eb41b14a9c4"
+      alt = "RCT UPPER 6"
+      description = "RCT UPPER 6"
+      alt_ar = "حشو عصب"
+      description_ar = "حشو عصب"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "اوبريتيف"
+    category_ar = "اوبريتيف"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/ff77008d-cd3c-4612-867c-ba8396e44857"
+      alt = "Composite restoration Lower 6,7,8"
+      description = "Composite restoration Lower 6,7,8"
+      alt_ar = "حشو عادي"
+      description_ar = "حشو عادي"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/9f78e911-a2a8-4905-aeac-aa6376d4e5b5"
+      alt = "Composite restoration"
+      description = "Composite restoration"
+      alt_ar = "حشو عادي"
+      description_ar = "حشو عادي"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "بريو"
+    category_ar = "بريو"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/86dc6818-47ca-4504-9b5b-e0f05c449c63"
+      alt = "Scaling and polishing"
+      description = "Scaling and polishing"
+      alt_ar = "تنظيف وتلميع"
+      description_ar = "تنظيف وتلميع"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/303cdff0-6221-4da6-9bf5-481a947b6871"
+      alt = "Pyogenic granuloma excision"
+      description = "Pyogenic granuloma excision"
+      alt_ar = "استئصال"
+      description_ar = "استئصال"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "كراون"
+    category_ar = "كراون"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
+      alt = "Upper bridge and crown"
+      description = "Upper bridge and crown"
+      alt_ar = "كوبري وطربوش"
+      description_ar = "كوبري وطربوش"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
+      alt = "Bridge 4 units , endocrown and crown"
+      description = "Bridge 4 units , endocrown and crown"
+      alt_ar = "طربوش وكوبري"
+      description_ar = "طربوش وكوبري"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "بيدو"
+    category_ar = "بيدو"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/adba3ca0-e60d-4914-915b-8bcb4ce86b9a"
+      alt = "Space maintenaner"
+      description = "Space maintenaner"
+      alt_ar = "حافظ مسافة"
+      description_ar = "حافظ مسافة"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "جراحه"
+    category_ar = "جراحه"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/995456ff-d9eb-4af6-87d9-499a81796daf"
+      alt = "Wisdom extraction"
+      description = "Wisdom extraction"
+      alt_ar = "خلع ضرس العقل"
+      description_ar = "خلع ضرس العقل"
+      
+  # Contact Section
+  [params.contact]
+    phone = "01013661376"
+    whatsapp = "01013661376"
+    email = "abdokottb22@gmail.com"
+    instagram = "https://www.instagram.com/dent.a.m.yossri?igsh=bmNmdGVubTg2bGw="
+    facebook = "https://www.facebook.com/share/1C2WwkUaNe/"
+    linkedin = "https://www.facebook.com/share/1Q3sBHzgnu/"
+    
+    [params.contact.location]
+      enabled = true
+      address = "المنيا - المنيا الجديده - الحي السابع"
+      latitude = "28.0833"
+      longitude = "30.8250"
+
+# Arabic Translations
+[params.ar]
+  [params.ar.hero]
+    name = "عبدالرحمن محمد يسري قطب"
+    tagline = "طبيب امتياز"
+    graduation = "تخرج 2025 - كلية طب الأسنان"
+    profile_image_alt = "صورة الملف الشخصي للدكتور عبدالرحمن محمد"
+    
+    [params.ar.hero.current_position]
+      role = "طبيب امتياز"
+      clinic = "مستشفى الجامعة وعيادة بالخارج"
+  
+[params.ar.skills]
+    clinical = [
+      "جراحة الفم والأسنان",
+      "علاج الجذور (حشو العصب)",
+      "الحشوات التجميلية والعلاجية",
+      "التركيبات الثابتة",
+      "طب أسنان الأطفال",
+      "علاج أمراض اللثة وتنظيف الأسنان"
+    ]
+    
+    digital = [
+      "استخدام تقنيات CAD/CAM في طب الأسنان",
+      "إعداد العروض التقديمية باستخدام PowerPoint",
+      "التصوير الطبي وتوثيق الحالات"
+    ]
+    
+    soft = [
+      "مهارات تواصل جيدة مع المرضى وبناء الثقة معهم",
+      "القدرة على التعامل مع الأطفال وتهيئتهم للعلاج",
+      "إدارة الوقت وتنظيم العمل داخل العيادة",
+      "العمل بروح الفريق مع الطاقم الطبي"
+    ]
+    
+  
+  [params.ar.education]
+    university = "جامعة دراية"
+    
+    [params.ar.education.master]
+      title = ""
+    
+    [params.ar.education.phd]
+      title = ""
+    
+    [[params.ar.education.timeline]]
+      event = "2020: الالتحاق بكلية طب الأسنان"
+    
+    [[params.ar.education.timeline]]
+      event = "2025: التخرج من كلية طب الأسنان"
+    
+    [[params.ar.education.timeline]]
+      event = "2026 – حتى الآن: طبيب امتياز (Internship) بكلية طب الأسنان"  
+
+  [params.ar.contact.location]
+    address = "المنيا - المنيا الجديده - الحي السابع"
+
+  [params.ar.ui]
+    [params.ar.ui.nav]
+      profile = "الملف الشخصي"
+      skills = "المهارات"
+      education = "التعليم"
+      clinical_cases = "الحالات السريرية"
+      cases_short = "الحالات"
+      blog = "المدونة"
+      contact = "التواصل"
+
+    [params.ar.ui.skills]
+      title = "المهارات المهنية"
+      clinical_title = "المهارات السريرية"
+      digital_title = "المهارات الرقمية"
+      soft_title = "المهارات الشخصية"
+
+    [params.ar.ui.education]
+      title = "التعليم والخط الزمني"
+      graduated_label = "تخرج"
+      career_timeline_title = "الخط الزمني المهني"
+      courses_title = "الدورات والشهادات"
+
+    [params.ar.ui.cases]
+      title = "الحالات السريرية"
+      subtitle = "معرض الحالات السريرية"
+
+    [params.ar.ui.blog]
+      title = "أحدث المقالات"
+      subtitle = "رؤى ومعرفة"
+      empty_text = "لا توجد مقالات بعد. أضف أول مقال في config.toml"
+
+    [params.ar.ui.contact]
+      title = "تواصل معي"
+      subtitle = "لنتواصل ونتعاون"
+      follow_me_title = "تابعني"
+
+    [params.ar.ui.labels]
+      now_working_as = "أعمل حالياً ك"
+      at = "في"
+      phone = "الهاتف"
+      whatsapp = "واتساب"
+      email = "البريد"
+      location = "الموقع"
+      get_directions = "احصل على الاتجاهات"
+      masters_degree = "درجة الماجستير"
+      phd_degree = "درجة الدكتوراه"
+      rights_reserved = "جميع الحقوق محفوظة"
