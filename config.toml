@@ -229,10 +229,10 @@ defaultContentLanguage = "en"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/86dc6818-47ca-4504-9b5b-e0f05c449c63"
-      alt = "Scaling and polishing"
-      description = "Scaling and polishing"
-      alt_ar = "تنظيف وتلميع"
-      description_ar = "تنظيف وتلميع"
+      alt = "L6 & L7 Class 1 composite restoration (single visit)"
+      description = "L6 & L7 Class 1 composite restoration (single visit)"
+      alt_ar = "ترميم المركب للسن السادس والسابع  سفلي من الفئة الاولى في زيارة واحدة"
+      description_ar = "ترميم المركب للسن السادس والسابع  سفلي من الفئة الاولى في زيارة واحدة"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/303cdff0-6221-4da6-9bf5-481a947b6871"
