@@ -184,15 +184,15 @@ defaultContentLanguage = "en"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
-      alt = "RCT lower 6, 7"
-      description = "RCT lower 6, 7"
+      alt = "RCT UPPER 6"
+      description = "RCT UPPER 6"
       alt_ar = "حشو عصب"
       description_ar = "حشو عصب"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
-      alt = "RCT UPPER 6"
-      description = "RCT UPPER 6"
+      alt = "RCT lower 6, 7"
+      description = "RCT lower 6, 7"
       alt_ar = "حشو عصب"
       description_ar = "حشو عصب"
 
