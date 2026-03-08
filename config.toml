@@ -210,10 +210,10 @@ defaultContentLanguage = "en"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/9f78e911-a2a8-4905-aeac-aa6376d4e5b5"
-      alt = "Composite restoration"
-      description = "Composite restoration"
-      alt_ar = "حشو عادي"
-      description_ar = "حشو عادي"
+      alt = "Pyogenic granuloma excision"
+      description = "Pyogenic granuloma excision"
+      alt_ar = "استئصال"
+      description_ar = "استئصال"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
