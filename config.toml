@@ -203,8 +203,8 @@ defaultContentLanguage = "en"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/ff77008d-cd3c-4612-867c-ba8396e44857"
-      alt = "Composite restoration Lower 6,7,8"
-      description = "Composite restoration Lower 6,7,8"
+      alt = "Composite restoration "
+      description = "Composite restoration "
       alt_ar = "حشو عادي"
       description_ar = "حشو عادي"
 
