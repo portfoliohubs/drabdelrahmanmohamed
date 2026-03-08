@@ -176,21 +176,21 @@ defaultContentLanguage = "en"
       description_ar = "علاج عصب L6"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
-      alt = "RCT UPPER 6"
-      description = "RCT UPPER 6"
-      alt_ar = "حشو عصب"
-      description_ar = "حشو عصب"
+      photo = "https://github.com/user-attachments/assets/429074b3-40a8-42f1-beda-d2d59be4fe2c"
+      alt = "RCT lower 6, 7"
+      description = "RCT lower 6, 7"
+      alt_ar = "علاج عصب Lower 6,7"
+      description_ar = "علاج عصب Lower 6,7"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/429074b3-40a8-42f1-beda-d2d59be4fe2c"
+      photo = "https://github.com/user-attachments/assets/88c2b4ee-fa13-4f5f-ba08-4f6e600ab238"
       alt = "RCT lower 6, 7"
       description = "RCT lower 6, 7"
       alt_ar = "حشو عصب"
       description_ar = "حشو عصب"
 
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/59ef1bf0-aa7f-4688-8f0f-6eb41b14a9c4"
+      photo = "https://github.com/user-attachments/assets/f56f7d9b-e29d-4363-9056-ef178d1848ef"
       alt = "RCT UPPER 6"
       description = "RCT UPPER 6"
       alt_ar = "حشو عصب"
@@ -215,6 +215,13 @@ defaultContentLanguage = "en"
       alt_ar = "حشو عادي"
       description_ar = "حشو عادي"
 
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f9d6bf4b-2835-45c8-970f-7b45c82cfef2"
+      alt = "Composite restoration Lower 6,7,8"
+      description = "Composite restoration Lower 6,7,8"
+      alt_ar = "حشو عادي"
+      description_ar = "حشو عادي"
+
   [[params.clinical_cases]]
     enabled = true
     category = "Perio"
@@ -233,6 +240,13 @@ defaultContentLanguage = "en"
       description = "Pyogenic granuloma excision"
       alt_ar = "استئصال"
       description_ar = "استئصال"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/59ef1bf0-aa7f-4688-8f0f-6eb41b14a9c4"
+      alt = "Scaling and polishing"
+      description = "Scaling and polishing"
+      alt_ar = "تنظيف وتلميع"
+      description_ar = "تنظيف وتلميع"
 
   [[params.clinical_cases]]
     enabled = true
