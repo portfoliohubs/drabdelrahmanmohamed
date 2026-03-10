@@ -295,7 +295,7 @@ defaultContentLanguage = "en"
 # Arabic Translations
 [params.ar]
   [params.ar.hero]
-    name = "عبدالرحمن محمد يسري قطب"
+    name = "د. عبدالرحمن محمد يسري قطب"
     tagline = "طبيب امتياز"
     graduation = "تخرج 2025 - كلية طب الأسنان"
     profile_image_alt = "صورة الملف الشخصي للدكتور عبدالرحمن محمد"
