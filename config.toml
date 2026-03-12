@@ -280,7 +280,7 @@ defaultContentLanguage = "en"
   # Contact Section
   [params.contact]
     phone = "01013661376"
-    whatsapp = "01013661376"
+    whatsapp = "+201013661376"
     email = "abdokottb22@gmail.com"
     instagram = "https://www.instagram.com/dent.a.m.yossri?igsh=bmNmdGVubTg2bGw="
     facebook = "https://www.facebook.com/share/1C2WwkUaNe/"
